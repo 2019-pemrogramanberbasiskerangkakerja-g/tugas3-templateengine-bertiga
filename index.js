@@ -9,9 +9,9 @@ app.get('/', function (req, res) {
         name_1: 'Nirmala',
         nrp_1: '0511154000700',
         name_2: 'Ariiq Firanda N',
-        nrp_1: '05111640000083',
+        nrp_2: '05111640000083',
         name_3: 'Faizal Khilmi Muzakki',
-        nrp_1: '05111640000120',
+        nrp_3: '05111640000120',
     })
 })
 
